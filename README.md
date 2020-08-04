@@ -1,5 +1,5 @@
 <h1 align="center">
-    :zap: REST API
+    :snowflake: REST API
 </h1>
 
 <h4 align="center">
