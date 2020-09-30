@@ -23,7 +23,6 @@ This project was developed with the following technologies:
 - [Express](https://expressjs.com)
 - [MongoDB](https://www.mongodb.com)
 - [Mongoose](https://mongoosejs.com)
-- [Git](https://git-scm.com)
 - [Joi Validator](https://hapi.dev/module/joi/#install)
 - [Jest Testing Framework](https://jestjs.io)
 
